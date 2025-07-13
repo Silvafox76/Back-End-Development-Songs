@@ -8,7 +8,7 @@ Developed as part of a backend development course, this service demonstrates cor
 
 ## 🧰 Tech Stack
 
-- **Backend Framework**: Flask (or FastAPI, if applicable — please confirm)
+- **Backend Framework**: Flask (+ FastAPI), 
 - **Language**: Python 3.x
 - **Containerization**: Docker (OpenShift-compatible)
 - **Testing**: `pytest`
